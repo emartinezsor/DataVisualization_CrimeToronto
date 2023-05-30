@@ -18,6 +18,6 @@ El repositorio está organizado de la siguiente manera:
 
 **Video:** Explicación de las visualizaciones de datos sobre crimen en Toronto.
 
-**PDF con Descripción de los Datos Seleccionados:** El archivo contiene la descripción de los datos sobre crimen en Toronto junto a un análisis de la importancia de su posterior análisis y visualización.
+**PDF con Descripción de los Datos Seleccionados:** El archivo contiene la descripción de los datos sobre crimen en Toronto junto a un análisis de la importancia de su posterior visualización.
 
 **PDF con Link de Visualización:** El archivo contiene el link de Flourish con el storoytelling.
